@@ -31,7 +31,7 @@ function About() {
     <>
         <h2>Welcome to the About page!</h2>
       <nav>
-        <Link to="/2">Home</Link>
+        <Link to="/2">Home 2</Link>
       </nav>
     </>
   );
